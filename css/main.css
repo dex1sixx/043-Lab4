@@ -1,20 +1,21 @@
 tr td{
     color: #ffffff;
 }
-#tbody2>tr{
+#tbody tr{
     color: #ffffff;
 }
 aside p+p{
-    color: #04ff48;
+    color: #ffffff; 
 }
 #saturn th {
     color: #ffffff;
   }
 section{
-    box-shadow:  white;
+    box-shadow:  rgb(255, 255, 255);
+    text-align: left;
 }
 #jupiter{
-    background-image: url(D:\phariwat043\043-mond-04\043-Lab4\images\Jupiter.jpg);
+    background-image: url(../images/Jupiter.jpg);
 }
 #saturn{
     background-image: url(../images/Saturn.jpg);
@@ -41,11 +42,27 @@ header {
 
 section {
   border: 1px solid white;
+  padding: 20px;
 }
 
 nav {
   margin: 0 0 0 85px;
   text-align: left;
+}
+
+nav a {
+  color: rgb(255, 153, 0);
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+a:any-link {
+  color :rgb(255, 153, 0)
 }
 
 footer {
