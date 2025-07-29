@@ -26,3 +26,9 @@ section{
 #neptune{
     background-image: url(../images/Neptune.jpg);
 }
+
+a:-webkit-any-link {
+    color: rgb(255, 174, 0)   ;
+    cursor: pointer;
+    text-decoration: underline;
+}
