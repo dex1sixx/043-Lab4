@@ -8,14 +8,13 @@ aside p+p{
     color: #04ff48;
 }
 #saturn th {
-    color: #04ecff;
+    color: #ffffff;
   }
 section{
-    box-shadow: 10px 5px 10px rgba(255, 255,255,1);
-    border-radius: 10px;
+    box-shadow:  white;
 }
 #jupiter{
-    background-image: url(../images/Jupiter.jpg);
+    background-image: url(D:\phariwat043\043-mond-04\043-Lab4\images\Jupiter.jpg);
 }
 #saturn{
     background-image: url(../images/Saturn.jpg);
