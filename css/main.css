@@ -67,6 +67,8 @@ a:any-link {
 
 footer {
   text-align: center;
-  background-color: blue;
-  padding: 20px;
+  background-color: #50d6ff;
+  padding: 10px;
+  border: 1px solid white;
+  
 }
